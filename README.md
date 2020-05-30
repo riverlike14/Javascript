@@ -10,8 +10,8 @@ The following chapters are main topic that the book covers.
 
 1. Introduction to JavaScript (Complete)
 2. Lexical Structure (Complete)
-3. Types, Values, and Variables (Currently working on...)
-4. Expressions and Operators
+3. Types, Values, and Variables (Complete)
+4. Expressions and Operators (Currently working on...)
 5. Statements
 6. Objects
 7. Arrays
