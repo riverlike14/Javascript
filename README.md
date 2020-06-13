@@ -12,7 +12,7 @@ The following chapters are main topic that the book covers.
 2. Lexical Structure (Complete)
 3. Types, Values, and Variables (Complete)
 4. Expressions and Operators (Complete)
-5. Statements (Currently working on...)
+5. Statements (Complete)
 6. Objects
 7. Arrays
 8. Functions
