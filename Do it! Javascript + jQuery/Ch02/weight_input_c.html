@@ -1,0 +1,11 @@
+<script>
+	var name = prompt("What is your name?", "");
+	var height = prompt("How tall are you?", "0");
+	var weight = prompt("How much do you weigh?", "0");
+
+	var normal_w = (height - 100) * 0.9;
+	var result = (weight >= normal_w - 5) && (weight <= normal_w + 5);
+
+	result = result ? "proper weight" : "not proper weight";
+	document.write(name + ", you have " + result);
+</script>
