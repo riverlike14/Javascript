@@ -1,0 +1,25 @@
+<script>
+	var site = prompt("Which portal site do you prefer the most among Naver, Daum, Nate, and Google?");
+	var url;
+
+	switch(site) {
+		case "Naver":
+			url = "www.naver.com";
+			break;
+		case "Daum":
+			url = "www.daum.net";
+			break;
+		case "Nate":
+			url = "www.nate.com";
+			break;
+		case "Google":
+			url = "www.google.com";
+			break;
+		default:
+			alert("You have written a wrong site...");
+	}
+
+	if (url)
+		location.href = "http://" + url;
+
+</script>
