@@ -35,3 +35,5 @@ The following chapters are main topics that the book cover.
 
 ### Do it! Javascript + jQuery
 1. Begin Javascript
+2. Basic Language
+3. Control
